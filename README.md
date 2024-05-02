@@ -1,8 +1,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=90&section=header"/>
 
-## Olá, me chamo Davi Barrionuevo.
+## Olá, me chamo Davi Barrionuevo!
 
-Sou estudante de engenharia de software e planejo publicar meus projetos por aqui conforme eu for aprendendo linguagens de programação e frameworks!
+Sou estudante de engenharia de software e planejo publicar meus projetos por aqui conforme eu for aprendendo linguagens de programação e frameworks.
 
 <div style="display: inline_block"><br>
   <h2>Aprendendo atualmente:</h2>
