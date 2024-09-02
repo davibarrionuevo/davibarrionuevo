@@ -14,4 +14,8 @@ img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-o
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <img align="center" alt="Davi-Java" height="30" width="40"
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img align="center" alt="Davi-Python" height="30" width="40"
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    
+
           
