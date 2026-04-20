@@ -1,8 +1,8 @@
-# 👨🏻‍💻 Davi Barrionuevo
+# Hey, I'm Davi Barrionuevo
 
-**`About Me`**
+**`👨‍💻 About Me`**
 
-I'm Davi, a Software Engineering student based in Brazil, on a mission to build software that actually matters. I'm currently diving into **data science** and **AI/ML**, particularly applied to **space science software**, a frontier that genuinely excites me. Outside of coding, you'll find me playing games or hanging out with friends! I'm always open to interesting collaborations, so feel free to reach out!
+I'm a Software Engineering student based in Brazil, on a mission to build software that actually matters. I'm currently diving into **data science** and **AI/ML**, particularly applied to **space science software**, a frontier that genuinely excites me. Outside of coding, you'll find me playing games or hanging out with friends! I'm always open to interesting collaborations, so feel free to reach out!
 
 ---
 
