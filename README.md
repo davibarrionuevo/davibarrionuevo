@@ -6,12 +6,12 @@ I'm a Software Engineering student based in Brazil, with the goal to build tech 
 
 ---
 
-### 🎓 Education
+### Education
 - 📚 Studying Software Engineering at Unifil
 - 🔬 Participating in AI Research Group
 - 🎯 Currently in my 3rd year
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <img 
     align="left" 
@@ -79,9 +79,9 @@ I'm a Software Engineering student based in Brazil, with the goal to build tech 
 <br/>
 <br/>
 
+<!--
 ### 📊 Statistics
 
-<p>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -97,6 +97,7 @@ I'm a Software Engineering student based in Brazil, with the goal to build tech 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=davibarrionuevo&theme=gotham&layout=compact&custom_title=Technologies&langs_count=9" 
   />
 </p>
+-->
 
 <br clear="left"/>
 
